@@ -140,14 +140,14 @@
 
 <br/><br/>
 
-<a href="https://x.com/i/user/1509605221609054208" target="_blank">
-  <img src="https://img.shields.io/badge/X%20%2F%20TWITTER-KOA-c9b48a?style=for-the-badge&labelColor=0f0f0f&logo=x&logoColor=c9b48a" />
+<a href="https://x.com/koaisdev" target="_blank">
+  <img src="https://img.shields.io/badge/X%20%2F%20TWITTER-%40koaisdev-c9b48a?style=for-the-badge&labelColor=0f0f0f&logo=x&logoColor=c9b48a" />
 </a>
 
 <br/><br/>
 
 <a href="https://discord.com/users/716195447525474305" target="_blank">
-  <img src="https://img.shields.io/badge/DISCORD-koaexe-c9b48a?style=for-the-badge&labelColor=0f0f0f&logo=discord&logoColor=c9b48a" />
+  <img src="https://img.shields.io/badge/DISCORD-%407nii-c9b48a?style=for-the-badge&labelColor=0f0f0f&logo=discord&logoColor=c9b48a" />
 </a>
 
 <br/><br/>
