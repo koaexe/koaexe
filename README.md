@@ -154,7 +154,7 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 <div align="center">
 
-[![](https://img.shields.io/badge/-koasync%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c9b48a&labelColor=0d0d0d)](mailto:koasync@gmail.com) &nbsp;[![](https://img.shields.io/badge/-%40sulfamic-0d0d0d?style=flat-square&logo=telegram&logoColor=c9b48a&labelColor=0d0d0d)](https://t.me/sulfamic) &nbsp;[![](https://img.shields.io/badge/-%40koaisdev-0d0d0d?style=flat-square&logo=x&logoColor=c9b48a&labelColor=0d0d0d)](https://x.com/koaisdev) &nbsp;[![](https://img.shields.io/badge/-%407nii-0d0d0d?style=flat-square&logo=discord&logoColor=c9b48a&labelColor=0d0d0d)](https://discord.com/users/716195447525474305) &nbsp;[![](https://img.shields.io/badge/-koaexe-0d0d0d?style=flat-square&logo=github&logoColor=c9b48a&labelColor=0d0d0d)](https://github.com/koaexe)
+[![](https://img.shields.io/badge/-koasync%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c9b48a&labelColor=0d0d0d)](mailto:koasync@gmail.com) &nbsp;[![](https://img.shields.io/badge/-%40sulfamic-0d0d0d?style=flat-square&logo=telegram&logoColor=c9b48a&labelColor=0d0d0d)](tg://user?id=6239650886) &nbsp;[![](https://img.shields.io/badge/-%40koaisdev-0d0d0d?style=flat-square&logo=x&logoColor=c9b48a&labelColor=0d0d0d)](https://x.com/koaisdev) &nbsp;[![](https://img.shields.io/badge/-%407nii-0d0d0d?style=flat-square&logo=discord&logoColor=c9b48a&labelColor=0d0d0d)](https://discord.com/users/716195447525474305) &nbsp;[![](https://img.shields.io/badge/-koaexe-0d0d0d?style=flat-square&logo=github&logoColor=c9b48a&labelColor=0d0d0d)](https://github.com/koaexe)
 
 <br/>
 
