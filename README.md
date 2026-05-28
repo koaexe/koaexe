@@ -4,17 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&style=italic&weight=300&size=18&duration=3200&pause=1400&color=C9B48A&background=00000000&center=true&vCenter=true&width=480&height=32&lines=Designer.+Developer.+Plugger.;I+don%27t+seek+meaning.+I+create." alt="" />
 
-&nbsp;
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=1a1506&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=1a1506&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=7a6a50" />
+<sup>D E S I G N E R &nbsp;&nbsp;·&nbsp;&nbsp; D E V E L O P E R &nbsp;&nbsp;·&nbsp;&nbsp; P L U G G E R &nbsp;&nbsp;·&nbsp;&nbsp; I N D I A</sup>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=1a1506&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=1a1506&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=7a6a50" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=safari&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
 
 </div>
 
 <br/>
 
----
+<div align="center"><i>Minimal. Intentional. Timeless.</i></div>
 
-<div align="center"><code>KOA &nbsp;·&nbsp; Anirudh &nbsp;·&nbsp; India</code></div>
+<br/>
 
 ---
 
@@ -149,12 +153,28 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 [![](https://img.shields.io/badge/-koasync%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c9b48a&labelColor=0d0d0d)](mailto:koasync@gmail.com) &nbsp;[![](https://img.shields.io/badge/-%40sulfamic-0d0d0d?style=flat-square&logo=telegram&logoColor=c9b48a&labelColor=0d0d0d)](https://t.me/sulfamic) &nbsp;[![](https://img.shields.io/badge/-%40koaisdev-0d0d0d?style=flat-square&logo=x&logoColor=c9b48a&labelColor=0d0d0d)](https://x.com/koaisdev) &nbsp;[![](https://img.shields.io/badge/-%407nii-0d0d0d?style=flat-square&logo=discord&logoColor=c9b48a&labelColor=0d0d0d)](https://discord.com/users/716195447525474305) &nbsp;[![](https://img.shields.io/badge/-koaexe-0d0d0d?style=flat-square&logo=github&logoColor=c9b48a&labelColor=0d0d0d)](https://github.com/koaexe)
 
-<br/>
-
-<sub><i>"A person's value has nothing to do with life or death."</i> &nbsp;—&nbsp; Johan Liebert</sub>
-
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0,0d0d0d,70,160f00,100,0d0d0d&section=footer" width="100%" />
+---
+
+<br/>
+
+<div align="center">
+
+*"A person's value has nothing to do with life or death."*
+
+<br/>
+
+<sub>— Johan Liebert &nbsp;·&nbsp; Monster</sub>
+
+<br/><br/>
+
+[![](https://img.shields.io/badge/-koa.is--a.dev-c9b48a?style=flat-square&logo=safari&logoColor=0d0d0d&labelColor=c9b48a)](https://koa.is-a.dev)
+
+<br/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0,0d0d0d,70,160f00,100,0d0d0d&section=footer" width="100%" />
