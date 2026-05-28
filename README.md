@@ -6,7 +6,7 @@
 
 <br/>
 
-I'm **Anirudh** — 19, somewhere in India, usually deep in a project.
+I'm **Anirudh** — 19yo, somewhere in India, usually deep in a project.
 
 Known online as **KOA** and **ANII**. Self-taught. The kind of student who learned more outside class than in it.
 
@@ -156,6 +156,10 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 [![](https://img.shields.io/badge/-koasync%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=c9b48a&labelColor=0d0d0d)](mailto:koasync@gmail.com) &nbsp;[![](https://img.shields.io/badge/-%40sulfamic-0d0d0d?style=flat-square&logo=telegram&logoColor=c9b48a&labelColor=0d0d0d)](https://t.me/sulfamic) &nbsp;[![](https://img.shields.io/badge/-%40koaisdev-0d0d0d?style=flat-square&logo=x&logoColor=c9b48a&labelColor=0d0d0d)](https://x.com/koaisdev) &nbsp;[![](https://img.shields.io/badge/-%407nii-0d0d0d?style=flat-square&logo=discord&logoColor=c9b48a&labelColor=0d0d0d)](https://discord.com/users/716195447525474305) &nbsp;[![](https://img.shields.io/badge/-koaexe-0d0d0d?style=flat-square&logo=github&logoColor=c9b48a&labelColor=0d0d0d)](https://github.com/koaexe)
 
+<br/>
+
+<sub>Pick whichever works for you — I'm around.</sub>
+
 </div>
 
 <br/>
@@ -171,10 +175,6 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 <br/>
 
 <sub>— Johan Liebert &nbsp;·&nbsp; Monster</sub>
-
-<br/><br/>
-
-[![](https://img.shields.io/badge/-koa.is--a.dev-c9b48a?style=flat-square&logo=safari&logoColor=0d0d0d&labelColor=c9b48a)](https://koa.is-a.dev)
 
 <br/>
 
