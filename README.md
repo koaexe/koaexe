@@ -6,10 +6,14 @@
 
 <br/>
 
-I'm **Anirudh** — 19, based in India. Student by schedule, builder by nature.<br/>
-Known online as **KOA** and **ANII**. Self-taught across design and development.<br/>
-I've been shipping interfaces, writing backends and automating systems since well before anyone expected it.<br/>
-I care about craft. I move fast. Everything I build is meant to hold.
+I'm **Anirudh** — 19, somewhere in India, usually deep in a project.
+
+Known online as **KOA** and **ANII**. Self-taught. The kind of student who learned more outside class than in it.
+
+Got into design first, then code, then everything connecting the two —<br/>
+interfaces, backends, bots, systems. Now I just build whatever the problem calls for, and build it right.
+
+*Don't overthink it. Ship it. Make it good.*
 
 <br/>
 
