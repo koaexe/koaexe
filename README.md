@@ -130,7 +130,7 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 &nbsp;
 ![Bot Development](https://img.shields.io/badge/-Bot%20Development-0d0d0d?style=flat-square&logo=probot&logoColor=c9b48a&labelColor=0d0d0d)
 ![API Integration](https://img.shields.io/badge/-API%20Integration-0d0d0d?style=flat-square&logo=postman&logoColor=c9b48a&labelColor=0d0d0d)
-![Automation](https://img.shields.io/badge/-Automation-0d0d0d?style=flat-square&logo=zapier&logoColor=c9b48a&labelColor=0d0d0d)
+![Automation](https://img.shields.io/badge/-Automation-0d0d0d?style=flat-square&logo=githubactions&logoColor=c9b48a&labelColor=0d0d0d)
 ![Database Architecture](https://img.shields.io/badge/-Database%20Architecture-0d0d0d?style=flat-square&logo=databricks&logoColor=c9b48a&labelColor=0d0d0d)
 ![Social Media Mgmt](https://img.shields.io/badge/-Social%20Media%20Mgmt-0d0d0d?style=flat-square&logo=buffer&logoColor=c9b48a&labelColor=0d0d0d)
 ![Account Recovery](https://img.shields.io/badge/-Account%20Recovery-0d0d0d?style=flat-square&logo=letsencrypt&logoColor=c9b48a&labelColor=0d0d0d)
