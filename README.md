@@ -20,7 +20,7 @@
 
 <br/>
 
-<sub>✦ &nbsp; W H A T &nbsp; I &nbsp; D O &nbsp; ✦</sub>
+<sub>✦ &nbsp; C R A F T &nbsp; &amp; &nbsp; C A P A B I L I T I E S &nbsp; ✦</sub>
 
 &nbsp;
 
@@ -46,14 +46,18 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 <br/>
 
+<sub>✦ &nbsp; T E C H &nbsp; S T A C K &nbsp; &amp; &nbsp; T O O L S &nbsp; ✦</sub>
+
+<br/>
+
 <sub>✦ &nbsp; D E S I G N &nbsp; ✦</sub>
 
 &nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0d0d0d?style=flat-square&logo=figma&logoColor=c9b48a&labelColor=0d0d0d)
-![Ps](https://img.shields.io/badge/Ps-Photoshop-0d0d0d?style=flat-square&labelColor=1c1407)
-![Ai](https://img.shields.io/badge/Ai-Illustrator-0d0d0d?style=flat-square&labelColor=1c1407)
-![Ae](https://img.shields.io/badge/Ae-After%20Effects-0d0d0d?style=flat-square&labelColor=1c1407)
-![Pr](https://img.shields.io/badge/Pr-Premiere%20Pro-0d0d0d?style=flat-square&labelColor=1c1407)
+![Ps](https://img.shields.io/badge/Ps-Photoshop-0d0d0d?style=flat-square&labelColor=0d0d0d)
+![Ai](https://img.shields.io/badge/Ai-Illustrator-0d0d0d?style=flat-square&labelColor=0d0d0d)
+![Ae](https://img.shields.io/badge/Ae-After%20Effects-0d0d0d?style=flat-square&labelColor=0d0d0d)
+![Pr](https://img.shields.io/badge/Pr-Premiere%20Pro-0d0d0d?style=flat-square&labelColor=0d0d0d)
 ![Blender](https://img.shields.io/badge/-Blender-0d0d0d?style=flat-square&logo=blender&logoColor=c9b48a&labelColor=0d0d0d)
 ![Webflow](https://img.shields.io/badge/-Webflow-0d0d0d?style=flat-square&logo=webflow&logoColor=c9b48a&labelColor=0d0d0d)
 ![Framer](https://img.shields.io/badge/-Framer-0d0d0d?style=flat-square&logo=framer&logoColor=c9b48a&labelColor=0d0d0d)
