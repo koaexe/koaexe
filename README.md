@@ -20,7 +20,9 @@
 
 <br/>
 
-<sub>✦ &nbsp; C R A F T &nbsp; &amp; &nbsp; C A P A B I L I T I E S &nbsp; ✦</sub>
+## ✦ Craft & Capabilities
+
+<sub>Design · Development · Systems · Digital Operations — four domains, one cohesive approach.</sub>
 
 &nbsp;
 
@@ -46,7 +48,9 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 <br/>
 
-<sub>✦ &nbsp; T E C H &nbsp; S T A C K &nbsp; &amp; &nbsp; T O O L S &nbsp; ✦</sub>
+## ✦ Tech Stack & Tools
+
+<sub>Every tool I reach for across design, code, infrastructure and operations — the full picture.</sub>
 
 <br/>
 
