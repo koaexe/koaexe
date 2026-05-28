@@ -6,9 +6,11 @@
 
 <br/>
 
-<sup>D E S I G N E R &nbsp;&nbsp;·&nbsp;&nbsp; D E V E L O P E R &nbsp;&nbsp;·&nbsp;&nbsp; P L U G G E R &nbsp;&nbsp;·&nbsp;&nbsp; I N D I A</sup>
+I'm **Anirudh** — known online as **KOA** and **ANII**.<br/>
+I blend creativity with logic to craft digital experiences that leave a lasting impact.<br/>
+From interfaces to infrastructure — I build things that feel as good as they look.
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=1a1506&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=1a1506&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=7a6a50" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=safari&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
 
