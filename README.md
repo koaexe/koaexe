@@ -17,7 +17,7 @@ interfaces, backends, bots, systems. Now I just build whatever the problem calls
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=c9b48a" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=safari&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
+<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=c9b48a" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=googlechrome&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
 
 </div>
 
@@ -86,7 +86,7 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=c9b48a&labelColor=0d0d0d)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=c9b48a&labelColor=0d0d0d)
 ![Python](https://img.shields.io/badge/-Python-0d0d0d?style=flat-square&logo=python&logoColor=c9b48a&labelColor=0d0d0d)
-![Java](https://img.shields.io/badge/-Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=c9b48a&labelColor=0d0d0d)
+![Java](https://img.shields.io/badge/-Java-0d0d0d?style=flat-square&logo=spring&logoColor=c9b48a&labelColor=0d0d0d)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0d0d0d?style=flat-square&logo=kotlin&logoColor=c9b48a&labelColor=0d0d0d)
 ![Swift](https://img.shields.io/badge/-Swift-0d0d0d?style=flat-square&logo=swift&logoColor=c9b48a&labelColor=0d0d0d)
 ![C++](https://img.shields.io/badge/-C++-0d0d0d?style=flat-square&logo=cplusplus&logoColor=c9b48a&labelColor=0d0d0d)
@@ -129,7 +129,7 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 &nbsp;
 ![Bot Development](https://img.shields.io/badge/-Bot%20Development-0d0d0d?style=flat-square&logo=probot&logoColor=c9b48a&labelColor=0d0d0d)
-![API Integration](https://img.shields.io/badge/-API%20Integration-0d0d0d?style=flat-square&logo=postman&logoColor=c9b48a&labelColor=0d0d0d)
+![API Integration](https://img.shields.io/badge/-API%20Integration-0d0d0d?style=flat-square&logo=swagger&logoColor=c9b48a&labelColor=0d0d0d)
 ![Automation](https://img.shields.io/badge/-Automation-0d0d0d?style=flat-square&logo=githubactions&logoColor=c9b48a&labelColor=0d0d0d)
 ![Database Architecture](https://img.shields.io/badge/-Database%20Architecture-0d0d0d?style=flat-square&logo=databricks&logoColor=c9b48a&labelColor=0d0d0d)
 ![Social Media Mgmt](https://img.shields.io/badge/-Social%20Media%20Mgmt-0d0d0d?style=flat-square&logo=buffer&logoColor=c9b48a&labelColor=0d0d0d)
