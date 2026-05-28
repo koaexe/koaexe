@@ -13,17 +13,13 @@ Known online as **KOA** and **ANII**. Self-taught. The kind of student who learn
 Got into design first, then code, then everything connecting the two —<br/>
 interfaces, backends, bots, systems. Now I just build whatever the problem calls for, and build it right.
 
-*Don't overthink it. Ship it. Make it good.*
+*Minimal. Intentional. Timeless.*
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=1a1506&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=1a1506&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=7a6a50" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=safari&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
+<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=c9b48a" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=safari&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
 
 </div>
-
-<br/>
-
-<div align="center"><i>Minimal. Intentional. Timeless.</i></div>
 
 <br/>
 
