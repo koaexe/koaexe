@@ -6,9 +6,10 @@
 
 <br/>
 
-I'm **Anirudh** — known online as **KOA** and **ANII**.<br/>
-I blend creativity with logic to craft digital experiences that leave a lasting impact.<br/>
-From interfaces to infrastructure — I build things that feel as good as they look.
+I'm **Anirudh** — 19, based in India. Student by schedule, builder by nature.<br/>
+Known online as **KOA** and **ANII**. Self-taught across design and development.<br/>
+I've been shipping interfaces, writing backends and automating systems since well before anyone expected it.<br/>
+I care about craft. I move fast. Everything I build is meant to hold.
 
 <br/>
 
