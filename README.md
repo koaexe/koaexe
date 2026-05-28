@@ -54,10 +54,10 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 &nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0d0d0d?style=flat-square&logo=figma&logoColor=c9b48a&labelColor=0d0d0d)
-![Ps](https://img.shields.io/badge/Ps-Photoshop-0d0d0d?style=flat-square&labelColor=0d0d0d)
-![Ai](https://img.shields.io/badge/Ai-Illustrator-0d0d0d?style=flat-square&labelColor=0d0d0d)
-![Ae](https://img.shields.io/badge/Ae-After%20Effects-0d0d0d?style=flat-square&labelColor=0d0d0d)
-![Pr](https://img.shields.io/badge/Pr-Premiere%20Pro-0d0d0d?style=flat-square&labelColor=0d0d0d)
+![Photoshop](https://img.shields.io/badge/-Photoshop-0d0d0d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxNCI+PHRleHQgeD0iMSIgeT0iMTEiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YjQ4YSI+UHM8L3RleHQ+PC9zdmc+&labelColor=0d0d0d)
+![Illustrator](https://img.shields.io/badge/-Illustrator-0d0d0d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxNCI+PHRleHQgeD0iMSIgeT0iMTEiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YjQ4YSI+QWk8L3RleHQ+PC9zdmc+&labelColor=0d0d0d)
+![After Effects](https://img.shields.io/badge/-After%20Effects-0d0d0d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxNCI+PHRleHQgeD0iMSIgeT0iMTEiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YjQ4YSI+QWU8L3RleHQ+PC9zdmc+&labelColor=0d0d0d)
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-0d0d0d?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOCAxNCI+PHRleHQgeD0iMSIgeT0iMTEiIGZvbnQtZmFtaWx5PSJBcmlhbCxzYW5zLXNlcmlmIiBmb250LXNpemU9IjExIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2M5YjQ4YSI+UHI8L3RleHQ+PC9zdmc+&labelColor=0d0d0d)
 ![Blender](https://img.shields.io/badge/-Blender-0d0d0d?style=flat-square&logo=blender&logoColor=c9b48a&labelColor=0d0d0d)
 ![Webflow](https://img.shields.io/badge/-Webflow-0d0d0d?style=flat-square&logo=webflow&logoColor=c9b48a&labelColor=0d0d0d)
 ![Framer](https://img.shields.io/badge/-Framer-0d0d0d?style=flat-square&logo=framer&logoColor=c9b48a&labelColor=0d0d0d)
