@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0,0d0d0d,70,160f00,100,0d0d0d&text=KOA&fontSize=88&fontColor=c9b48a&animation=fadeIn&fontAlignY=44&desc=Anirudh&descSize=17&descColor=7a6a50&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=240&color=0,090909,45,1a1100,100,090909&text=KOA&fontSize=100&fontColor=c9b48a&animation=fadeIn&fontAlignY=42&desc=Anirudh%20%C2%B7%20Designer%20%C2%B7%20Developer&descSize=15&descColor=6a5a3a&descAlignY=63&stroke=c9b48a&strokeWidth=0.6" width="100%" />
 
 <div align="center">
 
@@ -180,4 +180,4 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0,0d0d0d,70,160f00,100,0d0d0d&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=shark&height=140&color=0,090909,45,1a1100,100,090909&section=footer&reversal=true" width="100%" />
