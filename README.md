@@ -17,7 +17,7 @@ interfaces, backends, bots, systems. Now I just build whatever the problem calls
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=c9b48a&labelColor=0d0d0d&label=FOLLOWERS&logoColor=c9b48a&cacheSeconds=86400" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=googlechrome&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
+<img src="https://komarev.com/ghpvc/?username=koaexe&style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=VIEWS" />&nbsp;<img src="https://img.shields.io/github/followers/koaexe?style=flat-square&color=0d0d0d&labelColor=0d0d0d&label=FOLLOWERS&logo=github&logoColor=c9b48a&cacheSeconds=86400" />&nbsp;[![](https://img.shields.io/badge/-koa.is--a.dev-0d0d0d?style=flat-square&logo=googlechrome&logoColor=c9b48a&labelColor=0d0d0d)](https://koa.is-a.dev)
 
 </div>
 
