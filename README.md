@@ -144,7 +144,7 @@ Social Media Management, Account Recovery & Platform Issue Resolution — keepin
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=koaexe&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=c9b48a&text_color=a89068&icon_color=c9b48a&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" height="160" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=koaexe&hide_border=true&background=0d0d0d&ring=c9b48a&fire=c9b48a&currStreakLabel=c9b48a&currStreakNum=e8d5b0&sideNums=a89068&sideLabels=7a6a4a&dates=4a3c28&stroke=00000000" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=koaexe&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d0d0d&title_color=c9b48a&text_color=a89068&icon_color=c9b48a&hide_border=true&rank_icon=github&custom_title=GitHub%20Stats" height="160" />&nbsp;&nbsp;<img src="https://streak-stats.demolab.com?user=koaexe&hide_border=true&background=0d0d0d&ring=c9b48a&fire=c9b48a&currStreakLabel=c9b48a&currStreakNum=e8d5b0&sideNums=a89068&sideLabels=7a6a4a&dates=4a3c28&stroke=00000000" height="160" />
 
 </div>
 
